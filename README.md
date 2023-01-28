@@ -63,23 +63,9 @@ You need to have installed following softwares and libraries in your machine bef
 
 1.Python 3
 
+2.OpenCV
 
-2.Anaconda: It will install jupyter notebook and most of 
-the libraries which are needed like sklearn, pandas, seaborn, 
-matplotlib, numpy, PIL.
-
-
-3.OpenCV
-
-
-4.keras
-
-
-5.flask
-
-
-6.Atom: Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows.
-
+3.DeepFace
 
 Project Structure
 
